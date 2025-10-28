@@ -1,4 +1,4 @@
-# Sahiv Lopez – Portfolio Repository
+# Portfolio Repository
 
 Welcome to my portfolio! This repository collects selected projects, assignments, and experiments from mathematics, mechanical engineering, and computer science.
 
@@ -6,14 +6,15 @@ Welcome to my portfolio! This repository collects selected projects, assignments
 This portfolio demonstrates my skills in:
 - Mathematical modeling and numerical methods
 - Engineering analysis and simulation
-- Curriculum and instruction design
 - Programming in Python, MATLAB, and Java
 - Data visualization and analysis
-
+- Curriculum and instruction design
+- 
 ## 🗂️ Repository Structure
 - `mathematics/` – Projects in applied math, calculus, and PDEs  
 - `engineering/` – Modeling, simulation, and mechanical design work  
-- `computer_science/` – Coding, algorithms, and visualization projects  
+- `computer_science/` – Coding, algorithms, and visualization projects
+- `statistics/` - General Statistical Analysis 
 
 ## 🔍 Featured Projects
 | Project | Description | Tools |
