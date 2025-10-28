@@ -9,7 +9,7 @@ This portfolio demonstrates my skills in:
 - Programming in Python, MATLAB, and Java
 - Data visualization and analysis
 - Curriculum and instruction design
-- 
+  
 ## 🗂️ Repository Structure
 - `mathematics/` – Projects in applied math, calculus, and PDEs  
 - `engineering/` – Modeling, simulation, and mechanical design work  
