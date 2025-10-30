@@ -22,7 +22,7 @@ This portfolio demonstrates my skills in:
 | [Shock Assembly](Engineering/SolidWorks/FINAL_SHOCK_ASSEMBLY/FINAL_PROJECT_SAHIVLOPEZ.pdf) | Rotating Shock Assembly | SolidWorks |
 | [Solar Panel](Engineering/Circuits/) | Labs culminating in the design of a Solar Panel | Arduino, LTSpice, Analog Discovery 3 |
 | [Numpy Image Transformation](Computer%20Science/Python/Jupyter%20Projects/picture_phrase.ipynb) | Takes Numpy Arrays and transforms data into valid RGB values to then reveal image | Python|
-| [Student Randomizer](Computer%20Science/Python/) | Interactive GUI that allows the upload of a roster and selects students at random | Python|
+| [Student Randomizer](Computer%20Science/Python/gui_python.py) | Interactive GUI that allows the upload of a roster and selects students at random | Python|
 
 ## 🧠 About Me
 Mathematics educator and mechanical engineering student passionate about problem-solving, data-driven analysis, and education innovation.
