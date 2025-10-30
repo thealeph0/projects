@@ -19,8 +19,8 @@ This portfolio demonstrates my skills in:
 ## 🔍 Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [PDE Solver](mathematics/PDE_solver/) | Numerical heat equation solver using RK3 method | MATLAB |
-| [Thermodynamics Analysis](engineering/thermodynamics_analysis/) | Efficiency and power cycle modeling | Python |
+| [](mathematics/PDE_solver/) | Numerical heat equation solver using RK3 method | MATLAB |
+| [Solar Panel](engineering/circuits/) | Labs culminating in the design of a Solar Panel | Arduino, LTSpice, Analog Discovery 3 |
 | [Numpy Image Transformation](computer_science/python/) | Takes Numpy Arrays and transforms data into valid RGB values to then reveal image | Python|
 | [Student Randomizer](Computer%20Science/Python/) | Interactive GUI that allows the upload of a roster and selects students at random | Python|
 
