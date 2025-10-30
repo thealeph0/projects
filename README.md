@@ -22,7 +22,7 @@ This portfolio demonstrates my skills in:
 | [PDE Solver](mathematics/PDE_solver/) | Numerical heat equation solver using RK3 method | MATLAB |
 | [Thermodynamics Analysis](engineering/thermodynamics_analysis/) | Efficiency and power cycle modeling | Python |
 | [Numpy Image Transformation](computer_science/python/) | Takes Numpy Arrays and transforms data into valid RGB values to then reveal image | Python|
-| [Student Randomizer](computer%20science/python/) | Interactive GUI that allows the upload of a roster and selects students at random | Python|
+| [Student Randomizer](Computer%20Science/python/) | Interactive GUI that allows the upload of a roster and selects students at random | Python|
 
 ## 🧠 About Me
 Mathematics educator and mechanical engineering student passionate about problem-solving, data-driven analysis, and education innovation.
